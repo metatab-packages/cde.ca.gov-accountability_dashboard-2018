@@ -1,21 +1,21 @@
 Declare,metatab-latest
-Title,California Accountability Model & School Dashboard
+Title,California Accountability Model & School Dashboard 2018
 Description,Datasets for the California school dashboard at
 Description,https://www.caschooldashboard.org
 Identifier,00f0dc53-bbb9-42a2-a337-e8bc7e8122e5
-Name,cde.ca.gov-accountability_dashboard-2018-1.1.1
+Name,cde.ca.gov-accountability_dashboard-2018-1.1.2
 Dataset,accountability_dashboard
 Origin,cde.ca.gov
 Time,2018
 Space,
 Grain,
 Variant,
-Version,1.1.1
+Version,1.1.2
 Version.Major,1
 Version.Minor,1
-Version.Patch,1
+Version.Patch,2
 Created,2019-05-16T18:41:56
-Modified,2021-02-25T02:56:11
+Modified,2021-03-30T00:38:12
 Giturl,https://github.com/metatab-packages/cde.ca.gov.git
 ""
 Section,Contacts,Email,Organization,Url,
