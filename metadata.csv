@@ -15,8 +15,8 @@ Version.Major,1
 Version.Minor,1
 Version.Patch,2
 Created,2019-05-16T18:41:56
-Modified,2021-03-30T00:38:12
-Giturl,https://github.com/metatab-packages/cde.ca.gov.git
+Modified,2022-06-17T17:11:04
+Giturl,https://github.com/metatab-packages/cde.ca.gov-accountability_dashboard-2018.git
 ""
 Section,Contacts,Email,Organization,Url,
 Origin,,,California Department of Education,http://www.cde.ca.gov/,
